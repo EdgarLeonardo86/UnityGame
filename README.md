@@ -2,7 +2,7 @@
 Minijuego de la bola con dos escenas de diferente nivel
 
 
-Comenzando
+
 Como primera escena, tenemos un menú, en el que tienes tres opciones: 
 - Comenzar el juego en el nivel inicial
 - Comenzar el juego en el nivel 2
