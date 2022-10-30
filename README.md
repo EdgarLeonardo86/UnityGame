@@ -28,3 +28,4 @@ Básicamente es una escena en la que te muestra por pantalla que has ganado el n
 - Reiniciar el juego
 - Salir del juego
 
+Ya por último, indicar que el ejecutable para probar el juego está en la carpeta /Builds/Build
